@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!--DOCTYPE html-->
 <html>
 <body>
 
@@ -7,4 +7,4 @@
 <p>Snickerdoodle Dog #1 </p>
 
 </body>
-</html>
+<!--/html-->
